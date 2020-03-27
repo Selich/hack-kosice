@@ -1,0 +1,7 @@
+{
+  "name": "Hack Kosice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
